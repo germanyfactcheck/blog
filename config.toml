@@ -161,14 +161,11 @@ disqusShortname = ""
     # Contact Section
     # You can add multiple emails, phone numbers, or addresses
     # by copying the corresponding map with frontmatter code.
-    [[params.contact.email]]
-    title = "Email"
-    email = "germanyfactcheck@protonmail.com"
 
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Germany Fact Check"
+    copyright = "Germany Fact Check. Powered by Hugo"
 
     # Uses font awesome icons
     [[params.footer.social]]
